@@ -13,6 +13,6 @@ Beszállás a rakétába: space
 
 A rakéta irányítása
 
-Mozgás Egér
+Mozgás: Egér
 
 Lövés: S
