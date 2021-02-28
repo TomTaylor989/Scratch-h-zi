@@ -7,7 +7,7 @@ Egy apró játék amiben egy macskával beszálsz egy űrhajóba, és megküzdes
 A macska irányítása
 
 Jobb: D
-Bal: A
+Bal: A 
 Beszállás a rakétába: space
 
 A rakéta irányítása
