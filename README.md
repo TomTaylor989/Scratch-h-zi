@@ -14,4 +14,5 @@ Beszállás a rakétába: space
 A rakéta irányítása
 
 Mozgás Egér
+
 Lövés: S
