@@ -8,6 +8,7 @@ A macska irányítása
 
 Jobb: D
 Bal: A 
+
 Beszállás a rakétába: space
 
 A rakéta irányítása
