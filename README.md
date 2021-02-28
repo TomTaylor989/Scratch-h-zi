@@ -18,4 +18,5 @@ Mozgás: Egér
 Lövés: S
 
 
-![Screen Shot 2021-02-28 at 11 39 15](https://user-images.githubusercontent.com/79786910/109415728-a55ac780-79ba-11eb-9fad-4ad76ea3def5.png)
+![kép](https://user-images.githubusercontent.com/79786910/109415752-d20edf00-79ba-11eb-9803-f083dcd72487.png)
+
